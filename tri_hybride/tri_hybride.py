@@ -59,7 +59,7 @@ def seuil_optimal(array):
     seuil_opt = 0
     meilleur_temps = float('inf')
 
-    for seuil in range(len(array)):
+    for seuil in range((int)(len(array) * 1.5)):
         copie = array.copy()
         debut = time.perf_counter()
         tri_hybride(copie, seuil)
