@@ -1,5 +1,7 @@
   
 # Nom(s) étudiant(s) / Name(s) of student(s):
+# Abdelghafour Rahmouni 20246224
+# Marc Olivier Jean Paul 20241763
 
 import sys
 
