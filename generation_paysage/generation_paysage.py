@@ -1,3 +1,7 @@
+# Abdelghafour Rahmouni 20246224
+# Marc Olivier Jean Paul 20241763
+
+
 from solid import *
 from solid.utils import *
 import numpy as np
